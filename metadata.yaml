@@ -1,0 +1,37 @@
+_repo: Christ-in-Flanders_1940
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Marriage, Ellen
+    gutenberg_agent_id: '701'
+    url: http://www.gutenberg.org/2009/agents/701
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: Christ in Flanders
+url: http://www.gutenberg.org/ebooks/1940
